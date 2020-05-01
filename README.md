@@ -7,3 +7,7 @@
 There are some differences between the [Chinese](https://zh.d2l.ai/) and [English](https://d2l.ai/) versions of this book. For the PyTorch modifying of the English version, you can refer to [this repo](https://github.com/dsgiitr/d2l-pytorch).
 
 由于本仓库为学习时所记的笔记，故章节的顺序与原[repo](https://tangshusen.me/Dive-into-DL-PyTorch)有所不同。
+
+笔者在学习pytorch时有幸参加了由伯禹教育、Datawhale及和鲸科技联合创办的深度学习训练营，故本笔记也参考了学习期间的相关笔记。
+
+## 持续更新中...
